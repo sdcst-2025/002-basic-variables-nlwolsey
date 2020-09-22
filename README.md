@@ -2,17 +2,17 @@
 ### Assignment #2 Basic Variables and Data Types (Total Marks 6)
 
 Objectives:
-* To store values in basic variables\
-* To retrieve basic variable values\
-* To display the contents of a variable using print()\
+* To store values in basic variables
+* To retrieve basic variable values
+* To display the contents of a variable using print()
 
 In this lesson you will learn the basics of working with variables. Variables are extremely important in code, as they allow programs to be reusable for different applications.  For example, we might have a simple piece of code that adds 2 numbers together.  It would not be very effective for the code to only work for 1 + 1.  Instead, we want to be able to add any number to any other number.  In this case, we might use x + y where x and y are 2 variables representing the 2 numbers.
 
 **Variable naming**:
-* Variable names can be very short (a or b) or descriptive (EnglishGrade). Descriptive names are usually better as it makes understanding your code easier.\
-* Variable names must start with the "\_"underscore or with a letter, they may NOT start with a number\
-* Variable names can only contain alphanumeric symbols (A-Z,a-z,0-9) or the \_underscore\
-* Variable names are case sensitive\
+* Variable names can be very short (a or b) or descriptive (EnglishGrade). Descriptive names are usually better as it makes understanding your code easier.
+* Variable names must start with the "\_"underscore or with a letter, they may NOT start with a number
+* Variable names can only contain alphanumeric symbols (A-Z,a-z,0-9) or the \_underscore
+* Variable names are case sensitive
 
 How to assign values to variables:\
   variable = assigned value\
