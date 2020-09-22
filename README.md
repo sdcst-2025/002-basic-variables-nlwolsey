@@ -21,13 +21,14 @@ How to assign values to variables:
     The right side can be a single value, string (word) or an expression that is to be evaluated before being assigned to your variable
   
   example:
-  
+ ``` 
   x = 10
   y = "Hello world"
   z = 2.4
   
   a = 10 + 3
   b = a / 2
+```
 
 **Data Types**:
 There are 3 basic data types in programming:
