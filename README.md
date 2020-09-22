@@ -41,20 +41,20 @@ Note that "10" is not the same as 10.  One is a string using symbols and the oth
 ### 3 Tasks
 
 ##### Task 1
-(2 points) 
+(2 points)\
 Open the file assignment1.py\
 Create 2 variables named x and y.  Assign a value of 10 to x and a value of 2.4 to y\
 Output is not necessary.  The contents of the variables will be checked from within the program.\
 
 #### Task 2
-(2 points)
+(2 points)\
 Create a file called assignment2.py\
 Create variables fname and lname\
 Assign the string "Mr" to fname and the string "Yang" to lname\
 Output is not necessary.  The contents of the variables will be checked from within the program.\
 
 #### Task 3
-(2 points)
+(2 points)\
 Create a file called assignment3.py\
 Create variables value1 and value2\
 Assign the numerical value of 10 to value1 and the string "10" to value2\
