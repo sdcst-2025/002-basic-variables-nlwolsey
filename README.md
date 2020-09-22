@@ -15,10 +15,10 @@ In this lesson you will learn the basics of working with variables. Variables ar
 * Variable names are case sensitive
 
 How to assign values to variables:\
-  variable = assigned value\
-    The variable always goes on the left.\
-    The = sign is an assignment operator.\
-    The right side can be a single value, string (word) or an expression that is to be evaluated before being assigned to your variable
+* variable = assigned value
+* The variable always goes on the left.
+* The = sign is an assignment operator.
+* The right side can be a single value, string (word) or an expression that is to be evaluated before being assigned to your variable
   
   example:
  ``` 
