@@ -39,7 +39,9 @@ str   : String.  This is a reference to a collection of symbols.  We may think o
 Note that "10" is not the same as 10.  One is a string using symbols and the other refers to a numerical value.\
 
 This autograder uses "assertion" tests to check to see if your program is working. It does not use output to
-see if your program is working correctly.
+see if your program is working correctly. As a result, your autograder results will appear differently.
+
+
 ### 3 Tasks
 
 ##### Task 1
