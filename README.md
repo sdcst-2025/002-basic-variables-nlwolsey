@@ -14,7 +14,7 @@ In this lesson you will learn the basics of working with variables. Variables ar
 * Variable names can only contain alphanumeric symbols (A-Z,a-z,0-9) or the \_underscore
 * Variable names are case sensitive
 
-How to assign values to variables:\
+**How to assign values to variables:**
 * variable = assigned value
 * The variable always goes on the left.
 * The = sign is an assignment operator.
@@ -29,6 +29,8 @@ How to assign values to variables:\
   a = 10 + 3
   b = a / 2
 ```
+**More Notes about Variables**
+* If you assign a value to a variable more than once, the first value will be over written and will be gone forever (see file example3.py)
 
 **Data Types**:
 There are 3 basic data types in programming:\
@@ -37,9 +39,6 @@ float : Floating Point values. These are numbers that do contain decimals\
 str   : String.  This is a reference to a collection of symbols.  We may think of them as words, but they may contain alphanumeric characters.  Strings are contained within "double quotation marks" or 'single quotation marks'.\
 
 Note that "10" is not the same as 10.  One is a string using symbols and the other refers to a numerical value.\
-
-This autograder uses "assertion" tests to check to see if your program is working. It does not use output to
-see if your program is working correctly. As a result, your autograder results will appear differently.
 
 
 ### 3 Tasks
