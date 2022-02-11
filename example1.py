@@ -22,3 +22,10 @@ print(x)
 print(y)
 print(z)
 print(greeting)
+
+'''
+Note that you can store variables into other variables!
+'''
+x = 3
+m = x
+print(m)
