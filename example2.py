@@ -20,7 +20,11 @@ y = 3.0
 z = '3'
 a = 'three'
 
-
+print(f"x {x} is a type: { type(x) }")
+print(f"y {y} is a type: { type(y) }")
+print(f"y {z} is a type: { type(z) }")
+print(f"y {a} is a type: { type(a) }")
+exit()
 '''
 Notice that all of these variables now appear to contain some variation of 3, but they are not all the same.  
 x contains an integer value
@@ -47,7 +51,7 @@ Note that the contents will not be displayed unless you print it, or store it in
 x = 3
 type(x)
 '''
-Note that nothing appeared when line 45 was executed because it was not printed
+Note that nothing appeared when line 51 or 52 was executed because it was not printed
 '''
 typeOfVariable = type(x)
 '''
